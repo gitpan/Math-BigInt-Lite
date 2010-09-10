@@ -12,12 +12,11 @@ INSTALL
 lib/Math/BigInt/Lite.pm
 LICENSE
 Makefile.PL
-MANIFEST
+MANIFEST			This list of files
 MANIFEST.SKIP
-META.yml			Module meta-data (added by MakeMaker)
+META.yml
 NEW
 README
-SIGNATURE
 t/alias.inc
 t/bigintpm.inc
 t/bigintpm.t
@@ -27,3 +26,4 @@ t/pod.t
 t/pod_cov.t
 t/with.t
 TODO
+SIGNATURE                                Public-key signature (added by MakeMaker)
